@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"name": "techdegree-project-2",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../responsive_layout_v3/images"
+		},
+		{
+			"name": "mockups",
+			"path": "../responsive_layout_v3/mockups"
+		}
+	],
+    "settings": {}
+}
